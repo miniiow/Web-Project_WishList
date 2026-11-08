@@ -7,4 +7,5 @@
 |--|--|
 |guides/commit-policy.md|커밋 메세지 정책 정리|
 |guides/customer-request.md|고객 요구사항 정리|
-|docs/01_requirements/|요구사항 문서|
+|docs/README.md|docs 폴더 문서 안내|
+|docs/01_requirements/|요구사항 명세서와 기능명세서|
