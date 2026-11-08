@@ -11,8 +11,13 @@ desktop.ini
 # Eclipse 빌드 결과물 (Dynamic Web Project의 기본 출력 폴더)
 build/
 
-# DB 접속 정보 (값을 비운 db.properties.example은 올린다)
-db.properties
+# Eclipse workspace 개인 폴더 (workspace를 레포 폴더로 지정해서 생김)
+.metadata/
+Servers/
+RemoteSystemsTempFiles/
 
 # VS Code 설정
 .vscode/
+
+# DB 접속 정보 (값을 비운 db.properties.example은 올린다)
+db.properties
