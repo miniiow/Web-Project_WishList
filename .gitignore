@@ -1,0 +1,18 @@
+# Windows가 자동으로 만드는 파일
+Thumbs.db
+desktop.ini
+
+# Java 컴파일 결과물
+*.class
+
+# 로그 파일
+*.log
+
+# Eclipse 빌드 결과물 (Dynamic Web Project의 기본 출력 폴더)
+build/
+
+# DB 접속 정보 (값을 비운 db.properties.example은 올린다)
+db.properties
+
+# VS Code 설정
+.vscode/
