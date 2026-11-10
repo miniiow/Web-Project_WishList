@@ -45,12 +45,12 @@
 ### 개발 환경
 |항목|버전|비고|
 |--|--|--|
-|운영체제|Windows 11 Pro||
-|개발 도구|Visual Studio Code 1.144.1||
-|개발도구|Eclipse IDE for Enterprise Java and Web Developers 2026-09 R||
+|운영체제|Windows 11 Home||
+|개발 도구|Visual Studio Code 1.145.2||
+|개발 도구|Eclipse IDE for Enterprise Java and Web Developers 2026-09 R||
 |JDK|Java 21.0.11||
-|Tomcat|tomcat v11.0.27||
-|Oracle|Oracle 21ai free||
-|Servlet / JSP|Servlet 6.1, JSP 4.0(추후 확인 예정)|Tomcat 11 기준(Jakarta EE 11), 패키지는 jakarta.servlet 사용|
-|Oracle JDBC 드라이버|ojdbc11||
-|DB 관리 도구|Oracle SQL Developer||
+|Tomcat|Apache Tomcat 11.0.27||
+|Oracle|Oracle AI Database 26ai Free|Release 23.26.1.0.0|
+|Servlet / JSP|Servlet 6.1, JSP 4.0|Tomcat 11 기준(Jakarta EE 11), 패키지는 jakarta.servlet 사용|
+|Oracle JDBC 드라이버|ojdbc11 23.26.1|Oracle 설치 폴더의 jdbc\lib에 포함|
+|DB 관리 도구|Oracle SQL Developer 26.2.0||
